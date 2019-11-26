@@ -13,4 +13,8 @@ Quicker 安卓APP
 
 
 
+# 贡献者
+感谢各位给Quicker提交代码的大神！
+- edhlily
+
 
